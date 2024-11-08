@@ -225,7 +225,7 @@ export default function Home() {
                         </article>
                     </div>
                 </section>
-                <section id="projects" className="bento container">
+                {/* <section id="projects" className="bento container">
                     <h2>
                         <small>
                             Previous
@@ -236,10 +236,41 @@ export default function Home() {
                         <div className="bento-item">
                             <a href="https://prime-store.netlify.app" target="_blank" rel="noopener noreferrer" className="project-link">
                                 <img src="./Imgs/Display.jpg" alt="Project Thumbnail" className="project-thumbnail" />
+                                <h3>Prime Mobile Store</h3>
                                 <div className="project-details">
                                     <h3>Prime Mobile Store</h3>
                                     <p>E-commerce gadgets store built with React.js, JavaScript, and Bootstrap</p>
                                 </div>
+                            </a>
+                        </div>
+                    </div>
+                </section> */}
+                <section id="projects" className="projectsSection">
+                <h2>
+                        <small>
+                            Previous
+                        </small>
+                        Completed Projects
+                    </h2>
+                    <div className="bentoContainer">
+                        <div className="bentoGrid">
+                            <div className="bentoItem">
+                                <a href="https://prime-store.netlify.app" target="_blank" rel="noopener noreferrer">
+                                    <img src="/Imgs/Display.jpg" alt="Project Thumbnail" className="projectThumbnail" />
+                                    <h3>Prime Mobile Store</h3>
+                                </a>
+                            </div>
+                        </div>
+
+                        {/* Description beside the grid */}
+                        <div className="description">
+                            {/* <h2>About This Project</h2> */}
+                            <p>
+                                Prime Mobile Store is an e-commerce application integrated with mi.com and built with React.js, JavaScript, and Bootstrap.
+                                It features a fully responsive design and user-friendly interface for purchasing the latest gadgets.
+                            </p>
+                            <a href="https://github.com/Aamir-Devp/website" target="_blank" rel="noopener noreferrer" className="githubLink">
+                                View Source Code on GitHub
                             </a>
                         </div>
                     </div>
