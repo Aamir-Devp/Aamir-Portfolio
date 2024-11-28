@@ -50,7 +50,7 @@ export default function Home() {
                                 A Design and Developer based out of Hyderabad building responsive, user-centered websites with modern tech stack like React.js, JavaScript, HTML, tailwind CSS. <span> Innovative developer crafting scalable, impactful solutions for the digital world.</span>
                             </p>
                             <div className="call-to-action">
-                                <a href="/Imgs/Aamir's Profile (2).pdf" className="button black">
+                                <a href="/Imgs/Aamir's Profile (1).pdf" className="button black">
                                     View Resume
                                 </a>
                                 <a href="mailto:syedaamirs2208@gmail.com" className="button white">
