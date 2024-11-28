@@ -168,7 +168,7 @@ export default function Home() {
                                     </figcaption>
                                 </div>
                             </figure>
-                            <h3>Project Engineer</h3>
+                            <h3>Associate</h3>
                             <div>2022 - 2023</div>
                             <p>Engaged in cross-functional teams to identify risks, mitigate risks by implementing policies, ensure
                                 compliance integrity in client policy.</p>
@@ -198,7 +198,7 @@ export default function Home() {
                                     </figcaption>
                                 </div>
                             </figure>
-                            <h3>Associate Software Engineer</h3>
+                            <h3>Associate Technical Engineer</h3>
                             <div>2023 - 2024</div>
                             <p>Developed scalable full-stack web applications using the MERN stack, improving client performance by 20%.
                                 Built dynamic, responsive user interfaces with React.js, enhancing user experience and engagement by
